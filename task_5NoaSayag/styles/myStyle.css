@@ -1,0 +1,54 @@
+body 
+{
+    direction:rtl;
+    background-image:url(imags/education-technology.png);
+}
+#container{
+    width:960px;
+    margin:0 auto;
+   
+ 
+}
+section{
+    background-color: floralwhite;
+    width: 550px;
+    border: 15px solid blue;
+    padding: 10px;
+    margin: 25px;
+    align-content: bottom left;
+}
+label{
+     display:block;
+     margin-top:10px;
+}
+
+input[type ='text'] , input[type ='password'] ,textarea , select {
+    display:block;
+    margin-bottom:15px;
+}
+
+input[type ='submit']
+{
+ margin-top:10px;
+}
+
+h1{
+    align-content: center;
+    color: darkblue;
+    font-size: 30px;
+    
+}
+#bold{
+    font-size: 25px; 
+    color: black;
+    background-color: aliceblue;
+}
+#cont{
+  font-size: 25px; 
+    color: black;
+    background-color: aliceblue;   
+}
+img{
+    width: 30px;
+    height: 30px;
+}
